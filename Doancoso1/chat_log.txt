@@ -1,0 +1,133 @@
+long@gmail.com: tôi là long
+Server: Message sent to admin: admin@gmail.com
+admin@gmail.com: long@gmail.com: ok long nhé
+Server: Message sent to user: long@gmail.com
+tuan@gmail.com: tôi là tu?n
+Server: Message sent to admin: admin@gmail.com
+admin@gmail.com: tuan@gmail.com: ? bi?t r?i
+Server: Message sent to user: tuan@gmail.com
+tuan@gmail.com: kkkkkkkkkkkkkkkk
+Server: Message sent to admin: admin@gmail.com
+long@gmail.com: pppppppppppppp
+Server: Message sent to admin: admin@gmail.com
+long@gmail.com: kkkkk
+Server: Message sent to admin: admin@gmail.com
+long@gmail.com: tôi là long
+Server: Message sent to admin: admin@gmail.com
+admin@gmail.com: long@gmail.com: tôi bi?t r?i
+Server: Message sent to user: long@gmail.com
+tuan@gmail.com: tôi là tu?n
+Server: Message sent to admin: admin@gmail.com
+admin@gmail.com: tuan@gmail.com: tuân à
+Server: Message sent to user: tuan@gmail.com
+tuan@gmail.com: kkkkkkkkkkkkkkkkkkkkkkkkkk
+Server: Message sent to admin: admin@gmail.com
+admin@gmail.com: long@gmail.com: oooooo
+Server: Message sent to user: long@gmail.com
+long@gmail.com: ppppppppppppppppppppppppppppppppp
+Server: Message sent to admin: admin@gmail.com
+admin@gmail.com: long@gmail.com: iiiii
+Server: Message sent to user: long@gmail.com
+tuan@gmail.com: ppppp
+Server: Message sent to admin: admin@gmail.com
+admin@gmail.com: long@gmail.com: 000
+Server: Message sent to user: long@gmail.com
+long@gmail.com: iiii
+Server: Message sent to admin: admin@gmail.com
+admin@gmail.com: long@gmail.com: ô
+Server: Message sent to user: long@gmail.com
+tuan@gmail.com: 999999999999999999999999
+Server: Message sent to admin: admin@gmail.com
+tuan@gmail.com: tôi là tu?n
+Server: Message sent to admin: admin@gmail.com
+admin@gmail.com: tuan@gmail.com: ?
+Server: Message sent to user: tuan@gmail.com
+tuan@gmail.com: uuuu
+Server: Message sent to admin: admin@gmail.com
+long@gmail.com: tôi là long
+Server: Message sent to admin: admin@gmail.com
+admin@gmail.com: long@gmail.com: ?
+Server: Message sent to user: long@gmail.com
+long@gmail.com: rrrrr
+Server: Message sent to admin: admin@gmail.com
+admin@gmail.com: long@gmail.com: kkkk
+Server: Message sent to user: long@gmail.com
+long@gmail.com: ok
+Server: Message sent to admin: admin@gmail.com
+tuan@gmail.com: tôi là tu?n
+Server: Message sent to admin: admin@gmail.com
+admin@gmail.com: tuan@gmail.com: bi?t r?i
+Server: Message sent to user: tuan@gmail.com
+long@gmail.com: ?m
+Server: Message sent to admin: admin@gmail.com
+admin@gmail.com: long@gmail.com: ch?i cc
+Server: Message sent to user: long@gmail.com
+tuan@gmail.com: kkkkkkkkkkkkkkkk
+Server: Message sent to admin: admin@gmail.com
+admin@gmail.com: tuan@gmail.com: ooo
+Server: Message sent to user: tuan@gmail.com
+long@gmail.com: pppppppppppp
+Server: Message sent to admin: admin@gmail.com
+admin@gmail.com: long@gmail.com: pppp
+Server: Message sent to user: long@gmail.com
+long@gmail.com: tôi là long
+Server: Message sent to admin: admin@gmail.com
+admin@gmail.com: long@gmail.com: ?
+Server: Message sent to user: long@gmail.com
+long@gmail.com: kkkkk
+Server: Message sent to admin: admin@gmail.com
+long@gmail.com: ttttt
+Server: Message sent to admin: admin@gmail.com
+admin@gmail.com: long@gmail.com: pppp
+Server: Message sent to user: long@gmail.com
+tuan@gmail.com: tôi là tu?n
+Server: Message sent to admin: admin@gmail.com
+admin@gmail.com: tuan@gmail.com: ppp
+Server: Message sent to user: tuan@gmail.com
+tuan@gmail.com: cccccc
+Server: Message sent to admin: admin@gmail.com
+admin@gmail.com: tuan@gmail.com: uuu
+Server: Message sent to user: tuan@gmail.com
+admin@gmail.com: tuan@gmail.com: thoát ?i tu?n
+Server: Message sent to user: tuan@gmail.com
+tuan@gmail.com: ok
+Server: Message sent to admin: admin@gmail.com
+long@gmail.com: yyyy
+Server: Message sent to admin: admin@gmail.com
+tuan@gmail.com: kkkk
+Server: Message sent to admin: admin@gmail.com
+admin@gmail.com: tuan@gmail.com: jj
+Server: Message sent to user: tuan@gmail.com
+thaonguyen@gmail.com: hello
+Server: Message sent to admin: admin
+admin: thaonguyen@gmail.com: chào b?n
+Server: Message sent to user: thaonguyen@gmail.com
+thaonguyen@gmail.com: alooo
+Server: Message sent to admin: admin
+admin: thaonguyen@gmail.com: helllo
+Server: Message sent to user: thaonguyen@gmail.com
+admin: thaonguyen@gmail.com: chào b?n
+Server: Message sent to user: thaonguyen@gmail.com
+admin: thaonguyen@gmail.com: chàoooo
+Server: Message sent to user: thaonguyen@gmail.com
+admin: thaonguyen@gmail.com: b?nnnnn
+Server: Message sent to user: thaonguyen@gmail.com
+admin: thaonguyen@gmail.com: chào b?n ?
+Server: Message sent to user: thaonguyen@gmail.com
+admin: thaonguyen@gmail.com: d?n m?t h?
+Server: Message sent to user: thaonguyen@gmail.com
+thaonguyen@gmail.com: alo shop
+thaonguyen@gmail.com: alo shop
+Server: Message sent to admin: admin
+admin: thaonguyen@gmail.com: ?i shop nghe
+Server: Message sent to user: thaonguyen@gmail.com
+thaonguyen@gmail.com: shop có m?t hàng này không ?
+Server: Message sent to admin: admin
+admin: thaonguyen@gmail.com: shop có ?
+Server: Message sent to user: thaonguyen@gmail.com
+thaonguyen@gmail.com: alo
+Server: Message sent to admin: admin
+nguyen@gmail.com: alooo
+Server: Message sent to admin: admin
+nguyen@gmail.com: alo
+Server: Message sent to admin: admin
